@@ -1,5 +1,42 @@
 # podcast-description-examples.md
 
+Success Redefined: Why Good Work Isn't Enough
+
+[YouTube link placeholder]
+
+The mindset shift that turns good work into real impact 🚀
+
+In this episode, ‪@niksumeiko‬ (Nik Sumeiko) and Marius Bauer challenge the common belief that great craft equals project success. They discuss how to identify business value, measure real impact, and stand out by solving the problems that actually matter.
+
+What you'll learn in this episode:
+🎯 The gap between a finished project and a successful one
+💼 How to connect your work to real business goals
+📊 What "definition of done" really means beyond features
+🔁 Why short delivery cycles reduce risk and save money
+💎 How to stand out by solving business problems, not just shipping craft
+
+✏️ In This Episode:
+00:00 - Episode intro
+01:03 - The psychology of project success
+04:00 - Why craft alone doesn't guarantee success
+06:50 - Over-delivering by solving business problems is the creator UVP
+14:53 - The business side of creative careers
+20:58 - The definition of done, explained
+26:14 - Real-world example: building a DiGA health app
+29:44 - What happens when projects fail
+34:20 - Why business thinking matters more in the AI era
+
+Resources and people mentioned in the episode:
+Maurizio Poletto: https://www.linkedin.com/in/mauripoletto
+Cristiano Ronaldo: https://www.youtube.com/@cristiano
+Jeff Sheldon: https://www.youtube.com/@ugmonkstudio, https://ugmonk.com/, https://www.instagram.com/ugmonk/
+(DiGA App) Uroletics: https://www.uroletics.com
+(Government Regulatory) BfArM – Digital Health Applications: https://www.bfarm.de/EN/Medical-devices/Tasks/DiGA-and-DiPA/Digital-Health-Applications/Interesting-facts/_artikel.html
+
+project success, definition of done, business value, digital creators, craft vs business, unique value proposition, freelance success, business impact, creative careers, measuring success, over-delivering, business goals, startup lessons, DiGA health app, AI and business, client relationships, project failure, business thinking, creator mindset, digital work, freelancer tips, business-driven design, business-driven development, definition of success, creator economy
+
+---
+
 ### **Successful Freelance Business Is A System**
 
 [https://youtu.be/LzJkSfHUJJg?si=eyAPYQQQxvy3qQQJ](https://youtu.be/LzJkSfHUJJg?si=eyAPYQQQxvy3qQQJ)
