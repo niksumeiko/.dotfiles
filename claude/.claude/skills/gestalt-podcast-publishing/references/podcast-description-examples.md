@@ -37,6 +37,39 @@ project success, definition of done, business value, digital creators, craft vs 
 
 ---
 
+### **How to Handle Ambiguity and Creative Risk at Work**
+
+https://youtu.be/Mnj37OK6-gM?si=Jj2EVg8sGivqaxeu
+
+A structured guide to balance experimentation with delivery for software developers and designers ⚖️
+
+In this episode, @niksumeiko and Marius Bauer discuss how to navigate uncertainty in creative work. They share practical strategies for taking risks, staying productive, and turning ambiguity into progress.
+
+What you'll learn in this episode:
+🎯 How to define outcomes when the path is unclear
+⏱️ Time-boxing creative work is a key to staying on track
+🤝 Creating awareness around your creative work
+🧪 How to balance (experimentation + business value)
+🧠 Why stepping out of your comfort zone drives growth
+
+✏️ In This Episode:
+00:00 - Introduction: Uncertainty, Ambiguity, and Creative Risk
+03:14 - Creative Risks and Finding Structure
+06:48 - Defining Outcomes and Time-Boxing Exploration
+11:46 - The AI Content Explosion
+14:58 - AI Quality and Professional Craftsmanship
+22:35 - Evolution of Design Tools: Photoshop to AI
+26:02 - Staying Fluid in a Changing Landscape
+30:30 - Sharing Progress and Leveraging Your Team
+34:45 - The Blueprint: A Summary
+
+Resources and people mentioned in the episode:
+(case study) More Articles Are Now Created by AI Than Humans: https://graphite.io/five-percent/more-articles-are-now-created-by-ai-than-humans
+
+ambiguity at work, creative risk, handling uncertainty, time-boxing, digital creators, software developers, designers, experimentation, business value, comfort zone, AI content, professional craftsmanship, design tools evolution, team collaboration, creative workflow, productivity for developers, productivity for designers, structured creativity, innovation at work, Figma, Photoshop, AI tools, digital work challenges, creative process, balancing delivery, work strategies, career growth, problem-solving, creative experimentation, developer mindset
+
+---
+
 ### **Successful Freelance Business Is A System**
 
 https://youtu.be/LzJkSfHUJJg?si=eyAPYQQQxvy3qQQJ
