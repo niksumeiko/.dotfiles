@@ -50,3 +50,5 @@ When copy is unclear, naive, too wide, or weak:
 3. Suggest: rework, split into multiple posts, or narrow the angle
 
 Never polish bad ideas. Fix the foundation first.
+
+After generating feedback, filter each issue: does it meaningfully change reader impact? If not, cut it. Don't pad critique to look thorough. 2 real issues > 6 inflated ones.
