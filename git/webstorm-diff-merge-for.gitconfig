@@ -1,0 +1,13 @@
+[diff]
+    tool = webstorm
+[difftool]
+    prompt = false
+[difftool.webstorm]
+    cmd = wstorm diff "$LOCAL" "$REMOTE"
+[merge]
+    tool = webstorm
+[mergetool.webstorm]
+    cmd = wstorm merge "$LOCAL" "$REMOTE" "$BASE" "$MERGED"
+#     trustExitCode = true
+[mergetool]
+	keepBackup = false
