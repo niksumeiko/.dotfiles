@@ -26,7 +26,7 @@
 [blank line]
 [Body - 1 angle, proof/story/insight]
 [blank line]
-[Signature tie-in]
+[Signature tie-in — a line that only YOU could write. References your lived experience, credentials, or specific methodology. Not a generic takeaway.]
 [Simple question]
 ```
 

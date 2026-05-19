@@ -23,7 +23,7 @@ Validate every post against this:
 | 3rd | Re-hook with the solution |
 | 1-3 | Must work as a standalone post |
 | Body | 1 topic → 1 angle → 1 takeaway |
-| Near end | Signature statement (ties post to author identity) |
+| Near end | Signature statement — ties the post to the author's specific identity (experience, credentials, methodology, community). Test: could any dev tweet this line? If yes, it's a takeaway, not a signature. |
 | Last | Simple question (answerable without thinking) |
 
 **Additional checks:**
